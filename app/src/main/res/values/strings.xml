@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">行走的力量</string>
+    <string name="login">登录</string>
+    <string name="password">密码：</string>
+    <string name="user_name">用户名：</string>
+    <string name="register">注册</string>
+    <string name="forget">忘记密码？</string>
+    <string name="third_party_login">其他方式登录</string>
+    <string name="tab_home">记录</string>
+    <string name="tab_message">小贴士</string>
+    <string name="tab_discover">圈子</string>
+    <string name="tab_profile">我</string>
+    <string name="ptr_last_updated">Updated: %1$s</string>
+    <string name="pull_to_refresh_pull_label">下拉刷新...</string>
+    <string name="pull_to_refresh_release_label">释放刷新...</string>
+    <string name="pull_to_refresh_refreshing_label">加载中...</string>
+    <string name="pull_to_refresh_tap_label">点击刷新</string>
+</resources>
